@@ -1,0 +1,34 @@
+_repo: The-Continental-Classics-Volume-XVIII.-Mystery-TalesBergs-e-and-Bernhard-Severin-Ingemann_12144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: 'See also: PG#1552'
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+tableOfContents: The Queen of Spades / A.S. Pushkin -- The general's will / Vera Jelihovsky
+  -- Crime and punishment / F.M. Dostoyevsky -- The safety match / Anton Chekhoff
+  -- Knights of industry / V.V. Krestovski -- The amputated arms / J.W. Bergsöe --
+  The manuscript / Otto Larssen -- The sealed room / B.S. Ingemann -- The rector of
+  Veilbye / S.S. Blicher -- The living death / Ferencz Molnar -- Thirteen at table
+  / Maurus Jokai -- The dancing bear / Étienne Bársony -- The tower room / Arthur
+  Elck.
+title: 'The Continental Classics, Volume XVIII., Mystery Tales
+
+  Including Stories by Feodor Mikhailovitch Dostoyevsky, Jörgen Wilhelm
+
+  Bergsöe and Bernhard Severin Ingemann'
+url: http://www.gutenberg.org/ebooks/12144
